@@ -1,0 +1,10 @@
+D:\XIPONE\TUGAS\PBT (PEMOGRAMAN BERBASIS TEKS, GRAFIS, DAN MULTI MEDIA )\Modul 5\JenisBayar\bin\Debug\JenisBayar.exe.config
+D:\XIPONE\TUGAS\PBT (PEMOGRAMAN BERBASIS TEKS, GRAFIS, DAN MULTI MEDIA )\Modul 5\JenisBayar\bin\Debug\JenisBayar.exe
+D:\XIPONE\TUGAS\PBT (PEMOGRAMAN BERBASIS TEKS, GRAFIS, DAN MULTI MEDIA )\Modul 5\JenisBayar\bin\Debug\JenisBayar.pdb
+D:\XIPONE\TUGAS\PBT (PEMOGRAMAN BERBASIS TEKS, GRAFIS, DAN MULTI MEDIA )\Modul 5\JenisBayar\obj\Debug\JenisBayar.csproj.AssemblyReference.cache
+D:\XIPONE\TUGAS\PBT (PEMOGRAMAN BERBASIS TEKS, GRAFIS, DAN MULTI MEDIA )\Modul 5\JenisBayar\obj\Debug\JenisBayar.Properties.Resources.resources
+D:\XIPONE\TUGAS\PBT (PEMOGRAMAN BERBASIS TEKS, GRAFIS, DAN MULTI MEDIA )\Modul 5\JenisBayar\obj\Debug\JenisBayar.csproj.GenerateResource.cache
+D:\XIPONE\TUGAS\PBT (PEMOGRAMAN BERBASIS TEKS, GRAFIS, DAN MULTI MEDIA )\Modul 5\JenisBayar\obj\Debug\JenisBayar.csproj.CoreCompileInputs.cache
+D:\XIPONE\TUGAS\PBT (PEMOGRAMAN BERBASIS TEKS, GRAFIS, DAN MULTI MEDIA )\Modul 5\JenisBayar\obj\Debug\JenisBayar.exe
+D:\XIPONE\TUGAS\PBT (PEMOGRAMAN BERBASIS TEKS, GRAFIS, DAN MULTI MEDIA )\Modul 5\JenisBayar\obj\Debug\JenisBayar.pdb
+D:\XIPONE\TUGAS\PBT (PEMOGRAMAN BERBASIS TEKS, GRAFIS, DAN MULTI MEDIA )\Modul 5\JenisBayar\obj\Debug\JenisBayar.Form_JenisPembayaran.resources
